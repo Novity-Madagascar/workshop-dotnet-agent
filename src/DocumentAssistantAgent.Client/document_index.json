@@ -1,0 +1,289 @@
+[
+  {
+    "Owner":  "Jane Doe",
+    "FileName": "birth_certificate_jane_doe.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\birth_certificate_jane_doe.txt",
+    "Category": 0,
+    "Type": 2,
+    "ExpirationDate": null,
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Birth certificate for Jane Doe listing date and place of birth, parental names, and certificate number; explicitly indicates no expiry date.",
+    "Keywords": [
+      "Birth Certificate",
+      "Jane Doe",
+      "1987-07-25",
+      "Quatre Bornes",
+      "Mauritius",
+      "BC19870725-JD",
+      "No Expiry Date"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "birth_certificate_john_doe.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\birth_certificate_john_doe.txt",
+    "Category": 0,
+    "Type": 2,
+    "ExpirationDate": null,
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Birth certificate for John Doe, born 12 March 1985 in Curepipe, Mauritius; lists parents James Doe and Mary Doe; certificate number BC19850312-JD; explicitly states no expiry date.",
+    "Keywords": [
+      "BirthCertificate",
+      "John Doe",
+      "Date of Birth: 12 March 1985",
+      "Place of Birth: Curepipe, Mauritius",
+      "Certificate Number: BC19850312-JD",
+      "No Expiry Date"
+    ]
+  },
+  {
+    "Owner": "Alice Doe",
+    "FileName": "birth_certificate_kid1.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\birth_certificate_kid1.txt",
+    "Category": 0,
+    "Type": 2,
+    "ExpirationDate": null,
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Birth certificate for Alice Doe, born 3 May 2012 in Port Louis, Mauritius. Lists father John Doe and mother Jane Doe; certificate number BC20120503-AD; explicitly notes no expiry date.",
+    "Keywords": [
+      "Birth Certificate",
+      "Alice Doe",
+      "Port Louis",
+      "Mauritius",
+      "Certificate Number BC20120503-AD",
+      "No Expiry Date"
+    ]
+  },
+  {
+    "Owner": "Michael Doe",
+    "FileName": "birth_certificate_kid2.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\birth_certificate_kid2.txt",
+    "Category": 0,
+    "Type": 2,
+    "ExpirationDate": null,
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Birth certificate for Michael Doe, born 17 September 2015 in Port Louis, Mauritius. Certificate number BC20150917-MD; no expiry date.",
+    "Keywords": [
+      "Birth Certificate",
+      "Michael Doe",
+      "Date of Birth 2015-09-17",
+      "Port Louis",
+      "Mauritius",
+      "Certificate Number BC20150917-MD",
+      "No Expiry Date"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "degree_certificate_john_doe.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\degree_certificate_john_doe.txt",
+    "Category": 3,
+    "Type": 5,
+    "ExpirationDate": null,
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Academic certificate confirming John Doe\u0027s Bachelor of Engineering in Civil Engineering from the University of Mauritius, awarded in 2010; the document specifies there is no expiry date.",
+    "Keywords": [
+      "Degree Certificate",
+      "John Doe",
+      "Bachelor of Engineering",
+      "Civil Engineering",
+      "University of Mauritius",
+      "Graduation 2010",
+      "Certificate Number DEG-2010-ENG-12345"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "employment_contract.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\employment_contract.txt",
+    "Category": 1,
+    "Type": 4,
+    "ExpirationDate": null,
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Employment contract for John Doe as Senior Civil Engineer at XYZ Engineering Ltd, starting 1 Jan 2015, with a permanent/indefinite expiry.",
+    "Keywords": [
+      "Employment Contract",
+      "Senior Civil Engineer",
+      "Permanent",
+      "John Doe",
+      "XYZ Engineering Ltd",
+      "Port Louis",
+      "Mauritius"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "marriage_certificate.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\marriage_certificate.txt",
+    "Category": 4,
+    "Type": 5,
+    "ExpirationDate": null,
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "A marriage certificate documenting the union of John Doe and Jane Doe on 10 December 2010 in Port Louis, Mauritius, with certificate number MC20101210-D; the document states there is no expiry date.",
+    "Keywords": [
+      "Marriage Certificate",
+      "Groom: John Doe",
+      "Bride: Jane Doe",
+      "Date of Marriage: 10 December 2010",
+      "Place of Marriage: Port Louis, Mauritius",
+      "Certificate Number: MC20101210-D",
+      "No Expiry Date"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "medical_certificate.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\medical_certificate.txt",
+    "Category": 4,
+    "Type": 5,
+    "ExpirationDate": "2026-02-09T00:00:00",
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Medical certificate issued for John Doe for an occupational permit application; includes examination date (10 Aug 2025) and expiry date (9 Feb 2026).",
+    "Keywords": [
+      "Medical Certificate",
+      "Occupational Permit",
+      "John Doe",
+      "Mauritius",
+      "Dr. Marie Dupont",
+      "Medical Examination Date",
+      "Validity 6 Months"
+    ]
+  },
+  {
+    "Owner": "Jane Doe",
+    "FileName": "passport_jane_doe.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\passport_jane_doe.txt",
+    "Category": 0,
+    "Type": 0,
+    "ExpirationDate": "2031-08-09T00:00:00",
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Passport document for Jane Doe, Mauritian, issued 2021-08-10, expiring 2031-08-09.",
+    "Keywords": [
+      "Passport",
+      "Jane Doe",
+      "Mauritian",
+      "P87654321",
+      "Port Louis",
+      "Date of Issue 2021-08-10",
+      "Date of Expiry 2031-08-09"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "passport_john_doe.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\passport_john_doe.txt",
+    "Category": 0,
+    "Type": 0,
+    "ExpirationDate": "2030-01-14T00:00:00",
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Passport document for John Doe (Mauritian) issued in Port Louis; expires 2030-01-14. Passport number P12345678; issued 2020-01-15.",
+    "Keywords": [
+      "Passport",
+      "John Doe",
+      "P12345678",
+      "Mauritius",
+      "Port Louis"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "photo_spec.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\photo_spec.txt",
+    "Category": 0,
+    "Type": 0,
+    "ExpirationDate": "2025-12-01T00:00:00",
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Passport-sized photograph specification for John Doe; requirements: 35mm x 45mm, white background, taken within the last 6 months; expiry set to 6 months from date taken (valid until 2025-12-01).",
+    "Keywords": [
+      "passport-sized",
+      "photograph",
+      "white background",
+      "John Doe",
+      "Date Taken 2025-06-01",
+      "Expiry 2025-12-01"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "professional_permit_john_doe.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\professional_permit_john_doe.txt",
+    "Category": 1,
+    "Type": 5,
+    "ExpirationDate": "2029-02-09T00:00:00",
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Professional permit document for civil engineer John Doe, issued by Engineering Council of Mauritius, with permit number PP-ENG-456789. Valid from 2019-02-10 to 2029-02-09.",
+    "Keywords": [
+      "Professional Permit",
+      "Permit",
+      "Civil Engineer",
+      "John Doe",
+      "Engineering Council of Mauritius",
+      "PP-ENG-456789"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "proof_of_address.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\proof_of_address.txt",
+    "Category": 4,
+    "Type": 7,
+    "ExpirationDate": "2025-10-05T00:00:00",
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "A proof of address document for John Doe showing a water utility bill in Mauritius, with expiry 2025-10-05.",
+    "Keywords": [
+      "Proof of Address",
+      "John Doe",
+      "Utility Bill",
+      "CWA - Water",
+      "Mauritius",
+      "Quatre Bornes"
+    ]
+  },
+  {
+    "Owner": "Jane Doe",
+    "FileName": "resume_jane_doe.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\resume_jane_doe.txt",
+    "Category": 1,
+    "Type": 3,
+    "ExpirationDate": null,
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Resume for Jane Doe, an experienced HR Manager with expertise in recruitment, employee relations, and organizational development.",
+    "Keywords": [
+      "Jane Doe",
+      "HR Manager",
+      "Talent Acquisition",
+      "Employee Engagement",
+      "Recruitment",
+      "Employee Relations",
+      "Organizational Development",
+      "GlobalTech Ltd",
+      "PeopleFirst Ltd",
+      "University of Mauritius",
+      "HR"
+    ]
+  },
+  {
+    "Owner": "John Doe",
+    "FileName": "resume_john_doe.txt",
+    "FullPath": "C:\\henintsoa\\personal\\meetup-test\\resume_john_doe.txt",
+    "Category": 1,
+    "Type": 3,
+    "ExpirationDate": null,
+    "LastModified": "2025-08-22T03:21:38+04:00",
+    "Summary": "Professional resume for John Doe, a civil engineer with 12\u002B years of experience in structural design and project management, detailing education and work history.",
+    "Keywords": [
+      "John Doe",
+      "Resume",
+      "Civil Engineer",
+      "structural design",
+      "project management",
+      "AutoCAD",
+      "Revit",
+      "BEng Civil Engineering",
+      "University of Mauritius",
+      "Senior Civil Engineer",
+      "XYZ Engineering Ltd",
+      "BuildCo Mauritius"
+    ]
+  }
+]
